@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <TargetFrameworks>net472;net48;net481</TargetFrameworks>
+    <Nullable>disable</Nullable>
+    <RootNamespace>Water.SL</RootNamespace>
+    <AssemblyName>WaterSL</AssemblyName>
+    <Description>In-game Water runtime. Loaded only by a server that WaterServer started.</Description>
+  </PropertyGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\WaterLib\WaterLib.csproj" />
+  </ItemGroup>
+</Project>

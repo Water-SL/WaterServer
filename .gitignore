@@ -1,0 +1,13 @@
+bin/
+obj/
+.tmp-dump/
+.tmp-read/
+.vs/
+artifacts/
+*.user
+*.suo
+water-logo.tmp.png
+*.id0
+*.id1
+*.id2
+*.i64

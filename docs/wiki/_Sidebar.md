@@ -1,0 +1,6 @@
+* [English](English)
+* [Türkçe](Turkce)
+* [한국어](Korean)
+* [Русский](Russian)
+* [中文](Chinese)
+* [Plugins](Plugins)

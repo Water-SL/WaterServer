@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="Water.Tests/Water.Tests.csproj" />
+  <Project Path="WaterAssembly/WaterAssembly.csproj" />
+  <Project Path="WaterLib/WaterLib.csproj" />
+  <Project Path="WaterServer/WaterServer.csproj" />
+  <Project Path="WaterSL/WaterSL.csproj" />
+</Solution>

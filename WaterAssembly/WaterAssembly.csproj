@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <TargetFrameworks>net472;net48;net481;netstandard2.0;netstandard2.1;net6.0;net8.0;net10.0</TargetFrameworks>
+    <Nullable>disable</Nullable>
+    <RootNamespace>Water.Patch</RootNamespace>
+    <AssemblyName>WaterAssembly</AssemblyName>
+    <Description>Copies SCPSL into WaterSL and patches Assembly-CSharp by method signature.</Description>
+  </PropertyGroup>
+  <ItemGroup>
+    <PackageReference Include="Mono.Cecil" Version="0.11.6" />
+    <ProjectReference Include="..\WaterLib\WaterLib.csproj" />
+  </ItemGroup>
+</Project>
